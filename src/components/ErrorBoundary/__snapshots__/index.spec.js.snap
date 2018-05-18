@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorBoundary Component Test Renders error message and report form when there is an error 1`] = `
+<div
+  class="css-1e7u011 eog08c20"
+  color="222,54,24"
+  data-testid="app-error-boundary-error"
+>
+  <div>
+    <h2>
+      Sorry, something went wrong.
+    </h2>
+    <p
+      data-testid="app-error-boundary-report-form-wrapper"
+    >
+      This error has been reported to our development team. Please
+       
+      <button>
+        click here to fill out a report.
+      </button>
+    </p>
+    <p>
+      You can try reloading the page, or using the menu if it is available.
+    </p>
+  </div>
+</div>
+`;

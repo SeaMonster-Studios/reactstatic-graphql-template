@@ -1,0 +1,1544 @@
+{
+  "data": {
+    "allServices": [
+      {
+        "detailsColumn2": "",
+        "partialServiceColumns": [
+          {
+            "id": "cjgmo3wz4c0eh01620kmjo415",
+            "title": "Websites Designed for Humans",
+            "description":
+              "Everything we do starts with the user. With their journey in mind, we leverage testing to effectively map the site structure, serve them the content they want most, and keep it all delightful.",
+            "icon": {
+              "url": "https://media.graphcms.com/HW0PSX68SNidasI7aWu0"
+            }
+          },
+          {
+            "id": "cjgmo4qp807t00107sobo4dme",
+            "title": "Built to Grow",
+            "description":
+              "We can’t predict tomorrow, but we want to future-proof with good decision making and flexible design. Who knows when you might want a new product category or community section?",
+            "icon": {
+              "url": "https://media.graphcms.com/czN6kT1TyKjJYQmlRsKP"
+            }
+          },
+          {
+            "id": "cjgmo59hqbx4s0190dwnejmv5",
+            "title": "Getting to Know You",
+            "description":
+              "You know your business better than anyone else, so why wouldn’t we grab you a seat at the table? Designing your digital home is deeply personal and we’re committed to getting it right.",
+            "icon": {
+              "url": "https://media.graphcms.com/x7CbvyjZSYm6JgpqBOG2"
+            }
+          }
+        ],
+        "detailsBackgroundColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}",
+        "sidebarContent":
+          "<p><strong>Understanding user needs, getting them what they came for, and making them want to do it all again? Time-tested signs of good hospitality and lasting craftsmanship.</strong></p>",
+        "detailsColumn3": "",
+        "icon": {
+          "url": "https://media.graphcms.com/9Nn5lXYFSAiC53CU0AYQ"
+        },
+        "slug": "web-design-uiux",
+        "id": "cjgmo6ss5bvc701827d32glua",
+        "detailsContent": "",
+        "detailsColumn1": "",
+        "sidebarCtaUrl": "/contact-seamonster-studios/",
+        "createdAt": "2018-04-30T20:01:59.000Z",
+        "content":
+          "<h2>Rule #1: Ask the Right Questions</h2>\n<p>Before you dream in color, you need to think in yeses and nos, ones and zeros, passes and fails. We start the web design process by getting to know you: your business, your goals, and how you define success. From there, we dive into what’s possible, with just enough impossible to keep it interesting.</p>\n<p>Best practices and functionality breathe life into great design. Stories, art, and carefully measured user experience goals all come together as we sketch and design sites that get noticed. And we know that someday we’ll have visitors, and like any good host, we want to make sure they’re comfortable and can find the bathroom. But most important, we want them to come back.</p>",
+        "sidebarCtaLabel": "Let's Talk Projects",
+        "title": "Web Design + UI/UX",
+        "marqueeImage": {
+          "url": "https://media.graphcms.com/RnqlcMETvyQfshQKQLHX"
+        }
+      },
+      {
+        "detailsColumn2": "",
+        "partialServiceColumns": [
+          {
+            "id": "cjgmo8jw517iu0168rmf76l0c",
+            "title": "Footprints",
+            "description":
+              "You’ll never walk alone. If pre-launch training, post-launch management, or ongoing maintenance are your thing, we’re available to support.",
+            "icon": {
+              "url": "https://media.graphcms.com/zVGMyyVeQIy89jpHsHG2"
+            }
+          },
+          {
+            "id": "cjgmo8wocby650190rmdu5tup",
+            "title": "Stacks on Stacks",
+            "description":
+              "Our design team works closely with our developers to ensure that big ideas translate into working technology. And if those ideas are really big? We’ll still make it work.",
+            "icon": {
+              "url": "https://media.graphcms.com/fUvOvsOPQYmZmEAgY7OC"
+            }
+          },
+          {
+            "id": "cjgmo9cxuc3yr0199gg0sqz8g",
+            "title": "Always Learning",
+            "description":
+              "After all these years, and all these projects, we’re still excited to learn, push, and grow. Nerds? Maybe. Rock solid? You bet.",
+            "icon": {
+              "url": "https://media.graphcms.com/qD0xXK6WSa6KQe2N2Nvt"
+            }
+          }
+        ],
+        "detailsBackgroundColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}",
+        "sidebarContent":
+          "<p><strong>Our development team can work with third party design, or our design team can get your project started for the whole enchilada.</strong></p>",
+        "detailsColumn3": "",
+        "icon": {
+          "url": "https://media.graphcms.com/IRfLpXIdSFKlLhIKU2cv"
+        },
+        "slug": "web-development",
+        "id": "cjgmoak1nc47y0199oti2830l",
+        "detailsContent": "",
+        "detailsColumn1": "",
+        "sidebarCtaUrl": "contact-seamonster-studios",
+        "createdAt": "2018-04-30T20:04:54.000Z",
+        "content":
+          "<h2>Breathing life into great design.</h2>\n<p>We’re hungry for what’s next, but maintain a steady diet of what’s working. We build while we dream—testing and prototyping form, features, and functionality from the beginning of the project and ensuring a strong, reliable, and ultimately successful site.</p>\n<p>We put to work an agile development process that keeps projects on track and on time, with clear milestones and yoga-style flexibility. We also work with clients to maintain sites with updates, refreshes, and day to day management.</p>",
+        "sidebarCtaLabel": "Let's Talk Projects",
+        "title": "Web Development",
+        "marqueeImage": {
+          "url": "https://media.graphcms.com/RnqlcMETvyQfshQKQLHX"
+        }
+      },
+      {
+        "detailsColumn2":
+          "<figure><img src=\"https://media.graphcms.com/HC6toezWSV2sweRqtp0j\" alt=\"bold-commerce-uai-258x258.png\"/></figure>\n<h3>BOLD COMMERCE</h3>\n<p>Bold develops some of the most popular eCommerce apps, designed to help store owners increase their sales. SeaMonster Studios is proud to be a certified and award winning partner.</p>",
+        "partialServiceColumns": [
+          {
+            "id": "cjgmocx7q038i0162hcyiom6f",
+            "title": "They like us, they really like us.",
+            "description":
+              "<p>Shopify, the fastest growing e-commerce platform, has named SeaMonster Studios as Experts for our proven track record and success in their ecosystem.</p>\n<p><br></p>\n<figure><img src=\"https://media.graphcms.com/IciVuzRT2uqjBVo5IgPw\" alt=\"Shopify-Expert-dark.svg\"/></figure>\n<p><br></p>",
+            "icon": {
+              "url": "https://media.graphcms.com/nFOVUF8PQM2Dp0Eix7Bw"
+            }
+          },
+          {
+            "id": "cjgmodatmc4w1019920ljre9e",
+            "title": "It's in the details.",
+            "description":
+              "Your e-commerce site doesn’t exist in a vacuum. We understand the various processes and integrations you’ll need to make the ship run right, or rather, turn it into a nuclear submarine.",
+            "icon": {
+              "url": "https://media.graphcms.com/lI4PUP8TECE4z5QF1Yg4"
+            }
+          },
+          {
+            "id": "cjgmodq73c1j9011235d8mw7i",
+            "title": "Marketing Schmarketing",
+            "description":
+              "Data tells us what your customers are doing, what they like, and what they don’t. Combined with some old-fashioned strategic decision making, we can boost your digital marketing efforts with ease.",
+            "icon": {
+              "url": "https://media.graphcms.com/qIziaJ5IQfGuE089CZO2"
+            }
+          }
+        ],
+        "detailsBackgroundColor": "{\"r\":66,\"g\":108,\"b\":101,\"a\":1}",
+        "sidebarContent":
+          "<p><strong>More than just increased sales, a well thought out e-commerce experience can streamline your efforts and allow your business to scale.</strong></p>",
+        "detailsColumn3":
+          "<figure><img src=\"https://media.graphcms.com/25fdFFOXSEGDJlwli8zI\" alt=\"klaviyo-uai-258x258.png\"/></figure>\n<h3>KLAVIYO</h3>\n<p>Sell more by using data to drive your marketing. Klaviyo makes it easy for ecommerce marketers to target, personalize, measure and optimize email and Facebook campaigns.</p>",
+        "icon": {
+          "url": "https://media.graphcms.com/N9aJllf9StSWXLv2n7Ae"
+        },
+        "slug": "ecommerce",
+        "id": "cjgmoefymbvqe0179mvaww0px",
+        "detailsContent":
+          "<h3><strong>Ecommerce Platforms and Partnerships</strong></h3>\n<p>SeaMonster Studios has helped our clients earn millions of dollars of revenue online. We’ve partnered up with systems we love to use, and our favorite tools will help you drive growth and revenues in today’s competitive online marketplaces.</p>",
+        "detailsColumn1":
+          "<figure><img src=\"https://media.graphcms.com/ggPffSKWQiOjGwhxYjgA\" alt=\"shopify-uai-258x258.png\"/></figure>\n<h3>SHOPIFY</h3>\n<p>Selling your products in many places should be every bit as simple as selling in one. With Shopify, you get one unified platform to run your business with&nbsp;ease. We’re a certified partner and expert.</p>",
+        "sidebarCtaUrl": "/contact-seamonster-studios/",
+        "createdAt": "2018-04-30T20:07:55.000Z",
+        "content":
+          "<h2><strong>It's not business as usual.</strong></h2>\n<p>The leading e-commerce platforms think we’re pretty good at artful, data-driven strategic digital merchandising. As a preferred developer, we bring our web chops and marketing prowess to your online shop and deliver unique retail experiences backed by proven best practices and results.</p>\n<p>A carefully planned e-commerce experience can be the golden goose you’re looking for. Happy customers visit more often, and continue to buy, knowing that everything is secure, works the way it’s supposed to, and offers ease and delight. And we understand the back end of the process too—from SEO to logistics, to third-party inventory management tools you’ll need to bring it all full circle.</p>",
+        "sidebarCtaLabel": "Let's Talk Projects",
+        "title": "eCommerce",
+        "marqueeImage": {
+          "url": "https://media.graphcms.com/RnqlcMETvyQfshQKQLHX"
+        }
+      },
+      {
+        "detailsColumn2": "",
+        "partialServiceColumns": [
+          {
+            "id": "cjgmowxzn09uf01622o99obgb",
+            "title": "Production Management",
+            "description":
+              "<p>From start to finish, we handle the details with vendors and suppliers to ensure timely delivery and top-notch quality.</p>",
+            "icon": {
+              "url": "https://media.graphcms.com/Qrwmjb0Ssuwx5AZJLp5w"
+            }
+          },
+          {
+            "id": "cjgmoxi731f7d0168u31baj9o",
+            "title": "Get Outside the Box",
+            "description":
+              "<p>Hasn’t been done before? No sweat. We like to dream big, so let’s turn that print piece on its head and really wow your customers.</p>",
+            "icon": {
+              "url": "https://media.graphcms.com/xCafAyYlTU2cSHgTcV6A"
+            }
+          },
+          {
+            "id": "cjgmoxu8xc3ek0124kuvhxu61",
+            "title": "Extending the Brand",
+            "description":
+              "<p>Let’s bring your brand to life with the tools, swag, and promotional pieces you deserve.</p>",
+            "icon": {
+              "url": "https://media.graphcms.com/qiWIxipR8Sy1SDzvWoaw"
+            }
+          }
+        ],
+        "detailsBackgroundColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}",
+        "sidebarContent":
+          "<p><strong>Beyond the digital world, let’s connect your audience to your living, breathing brand through print, experiential, and promotional pieces.</strong></p>",
+        "detailsColumn3": "",
+        "icon": {
+          "url": "https://media.graphcms.com/AL0Kzg0FQnCPU3MomyXP"
+        },
+        "slug": "design-studio",
+        "id": "cjgmoyhq4m7p50101a3p6s5sk",
+        "detailsContent": "",
+        "detailsColumn1": "",
+        "sidebarCtaUrl": "/contact-seamonster-studios/",
+        "createdAt": "2018-04-30T20:23:31.000Z",
+        "content":
+          "<h2><strong>Bringing your brand to the masses.</strong></h2>\n<p>Trade show booths, event posters, business cards, sales tools—we can design one-off pieces or an entire collateral suite. No matter the need, we’ve amassed a serious rolodex of vendors and suppliers to help keep your brand looking fresh.</p>",
+        "sidebarCtaLabel": "Let's Talk Projects",
+        "title": "Design Studio",
+        "marqueeImage": {
+          "url": "https://media.graphcms.com/RnqlcMETvyQfshQKQLHX"
+        }
+      },
+      {
+        "detailsColumn2": "",
+        "partialServiceColumns": [
+          {
+            "id": "cjgmp2a71c3sh0171p6uru814",
+            "title": "Speak Clearly",
+            "description":
+              "<p>Our brand work will establish a game plan for how you communicate both internally and externally, easing the burden on your team and satisfying your customer’s needs.</p>",
+            "icon": {
+              "url": "https://media.graphcms.com/NhzsMBJpQHFI7CiAPdui"
+            }
+          },
+          {
+            "id": "cjgmp2wmfc52j0124hekt2cgs",
+            "title": "True North",
+            "description":
+              "<p>A well-positioned brand tells the story of where you live in your customer’s hearts. When it’s wrong, they’ll know, and they won’t hesitate to tell you.</p>",
+            "icon": {
+              "url": "https://media.graphcms.com/2AeUTYkzSyKAl1vWOli7"
+            }
+          },
+          {
+            "id": "cjgmp3933cdj40199zyg22pkr",
+            "title": "Just a Logo",
+            "description":
+              "<p>And colors, and fonts, and photography, and graphics, and messaging, and, it’s really never just a logo that communicates all that you are—it’s time to tell the whole story.</p>",
+            "icon": {
+              "url": "https://media.graphcms.com/Uuc1WgqQwiFw5JS6U1VN"
+            }
+          }
+        ],
+        "detailsBackgroundColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}",
+        "sidebarContent":
+          "<p><strong>It’s more than designing a logo, it’s designing a connection to your customers.</strong></p>",
+        "detailsColumn3": "",
+        "icon": {
+          "url": "https://media.graphcms.com/bj8mWuxOSgKZJVNIEPv2"
+        },
+        "slug": "brand-lab",
+        "id": "cjgmp47nscbfv0135u0p7zovn",
+        "detailsContent": "",
+        "detailsColumn1": "",
+        "sidebarCtaUrl": "/contact-seamonster-studios/",
+        "createdAt": "2018-04-30T20:27:58.000Z",
+        "content":
+          "<h2><strong>Your story starts here.</strong></h2>\n<p>Whether it’s launching a new product or refreshing the look and feel of an established business, we believe your brand is all about nailing the story.</p>\n<p>A well-tuned brand, from positioning to visual identity, should capture what makes you tick and authentically communicate that to your customers. Brand development at SeaMonster Studios begins with a discovery process that aims to unearth the kinds of insights necessary to hit the center of who you are. We apply what we’ve learned to build an identity that’s strategic, fetching, and always authentic.</p>",
+        "sidebarCtaLabel": "Let's Talk Projects",
+        "title": "Brand Lab",
+        "marqueeImage": {
+          "url": "https://media.graphcms.com/RnqlcMETvyQfshQKQLHX"
+        }
+      },
+      {
+        "detailsColumn2": "",
+        "partialServiceColumns": [
+          {
+            "id": "cjgmp64bzcair0112gghae9la",
+            "title": "Stop Hemorrhaging",
+            "description":
+              "<p>We can spot the pain and stop the loss. If your site isn’t launching when you thought it would, let’s look at the challenges and try to eliminate them.</p>",
+            "icon": {
+              "url": "https://media.graphcms.com/lLG82pgSn66TWEpDhyLM"
+            }
+          },
+          {
+            "id": "cjgmp6frwc5t501095o63kynr",
+            "title": "Sound Advice",
+            "description":
+              "<p>We’re technologists, business people, and savvy marketers. When a project needs a punch-up, a redo, or a kick in the pants, we’re the right ones to bring on board.</p>",
+            "icon": {
+              "url": "https://media.graphcms.com/TV6UmPKSS0iHBxeg19fT"
+            }
+          },
+          {
+            "id": "cjgmp6qbyc6a00124u8bjmagq",
+            "title": "The Road Less Travelled",
+            "description":
+              "<p>Let us recommend a path toward success that is mindful of your budget, your time, and the work you’ve already accomplished.</p>",
+            "icon": {
+              "url": "https://media.graphcms.com/m9DI7qV3Q9KiOc8KBnx2"
+            }
+          }
+        ],
+        "detailsBackgroundColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}",
+        "sidebarContent":
+          "<p><strong>A second opinion on a project, from a knowledgeable, trusted partner, can mean the difference between on time and on budget, and, well, not.</strong></p>",
+        "detailsColumn3": "",
+        "icon": {
+          "url": "https://media.graphcms.com/Zpq6Tvl7RRi833sfu3z4"
+        },
+        "slug": "assessment-consultation",
+        "id": "cjgmp79wwcctw0135uvo7ueh4",
+        "detailsContent": "",
+        "detailsColumn1": "",
+        "sidebarCtaUrl": "/contact-seamonster-studios/",
+        "createdAt": "2018-04-30T20:30:20.000Z",
+        "content":
+          "<h2><strong>That’s what friends are for.</strong></h2>\n<p>We keep projects from spinning out of control, no matter the firm or vendor, because you deserve success. A trusted partner—well-versed in the language of web projects—can ensure you hit the finish line according to plan.</p>\n<p>It helps to have someone in your corner. Whether it’s an extra set of eyes on a contract, a pair of hands to manage a web project, or just another opinion to help your gut check how things are going.</p>",
+        "sidebarCtaLabel": "Let's Talk Projects",
+        "title": "Assessment & Consultation",
+        "marqueeImage": {
+          "url": "https://media.graphcms.com/RnqlcMETvyQfshQKQLHX"
+        }
+      }
+    ],
+    "allTeamMembers": [
+      {
+        "name": "Logan Call",
+        "socialProfiles": [
+          {
+            "id": "cjfblq2d8re2s0117dyq9jtb3",
+            "url": "https://github.com/thislogancall",
+            "icon": {
+              "url": "https://media.graphcms.com/EQm8xwAQeCOlCSTwls7w"
+            }
+          },
+          {
+            "id": "cjfblrjxl1ro30141tkk0repw",
+            "url": "https://www.linkedin.com/in/thislogancall/",
+            "icon": {
+              "url": "https://media.graphcms.com/Q9hfeNSYR2GUUTV0XT7S"
+            }
+          }
+        ],
+        "backgroundImage": {
+          "url": "https://media.graphcms.com/uztMUUQ1Qvq4RvzsxSAt"
+        },
+        "ctaLabel": "Let Logan Code Your Site",
+        "slug": "thislogancall",
+        "id": "cjfblrn79qeeh0121v1urwyr6",
+        "content":
+          "<p>Logan is our Lead Front End Developer, which is just another name for an analytical and creative minded engineer. He’s focused on making the web a better place by being a problem-solver and uses the modern web technologies like HTML5, CSS 3, JavaScript 2017, React, Flux Architecture, server-less databases, PHP 7, and WordPress.</p>",
+        "ctaUrl": "/contact-seamonster-studios/",
+        "avatarFlat": {
+          "url": "https://media.graphcms.com/yXIqhkivRAWisyIusnQq"
+        }
+      },
+      {
+        "name": "Wes Buckwalter",
+        "socialProfiles": [
+          {
+            "id": "cjfbluayd6imh01037qz254z1",
+            "url": "https://twitter.com/seamonsterwes",
+            "icon": {
+              "url": "https://media.graphcms.com/JzK2rOTmQjWq5URBP6XY"
+            }
+          },
+          {
+            "id": "cjfblupjoqg0y0121zuoaltri",
+            "url": "http://www.linkedin.com/in/seamonsterwes",
+            "icon": {
+              "url": "https://media.graphcms.com/Q9hfeNSYR2GUUTV0XT7S"
+            }
+          }
+        ],
+        "backgroundImage": {
+          "url": "https://media.graphcms.com/xElFD2DT5i2lAf6PUFSQ"
+        },
+        "ctaLabel": "Work With Wes",
+        "slug": "wes-buckwalter",
+        "id": "cjfblux6h6ir40103rg2u75ap",
+        "content":
+          "<p>Wes is the <strong>founder</strong> and <strong>CEO</strong> of SeaMonster Studios. He’s spent 10 years building a business with equal focus on service, performance, and solid design strategy. Aside from his daily responsibilities as the lead web designer and head of client services, Wes captains the ship by organizing meetings, setting deadlines, and contributing heavily to the vision, focus, and forward momentum of all projects.</p>\n<h2><strong>successful projects</strong></h2>\n<h3><a href=\"/portfolio/atlas-networks-2/\">ATLAS NETWORKS</a></h3>\n<h3><a href=\"/portfolio/aviation-technical-services/\">AVIATION TECHNICAL SERVICES</a></h3>\n<h3><a href=\"/portfolio/jill-fritzo-pr/\">JILL FRITZO PR</a></h3>\n<h3><a href=\"/portfolio/joe-van-gogh/\">JOE VAN GOGH</a></h3>\n<h2><strong>recent blog posts</strong></h2>\n<h3><a href=\"/2017/08/11/email-marketing-isnt-dead-youre-just-doing-it-wrong/\">EMAIL MARKETING ISN’T DEAD, YOU’RE JUST DOING IT WRONG.</a></h3>\n<h3><a href=\"/2017/07/28/room-to-grow-a-better-web-build/\">ROOM TO GROW — A BETTER WEB BUILD</a></h3>\n<h3><a href=\"/2017/07/26/cheap-hosting-is-like-a-van-on-fire-in-your-kitchen/\">CHEAP HOSTING IS LIKE A VAN ON FIRE IN YOUR KITCHEN</a></h3>\n<h3><a href=\"/2017/07/10/use-online-shipping-to-build-customer-loyalty/\">USE ONLINE SHIPPING TO BUILD CUSTOMER LOYALTY</a></h3>",
+        "ctaUrl": "/contact-us/",
+        "avatarFlat": {
+          "url": "https://media.graphcms.com/5jpk6srmSaymeAgcRpOs"
+        }
+      },
+      {
+        "name": " Katy V. Meehan",
+        "socialProfiles": [
+          {
+            "id": "cjfbly95g982k0102vf2nb7gg",
+            "url": "https://www.instagram.com/katyvmeehan",
+            "icon": {
+              "url": "https://media.graphcms.com/0XfkWvhTgSpyWhEBQveQ"
+            }
+          },
+          {
+            "id": "cjfblym181ifs0108ub6oxw3z",
+            "url": "https://www.pinterest.com/katyvmeehan",
+            "icon": {
+              "url": "https://media.graphcms.com/nRpc0CYkTeGSXYfg7czm"
+            }
+          }
+        ],
+        "backgroundImage": null,
+        "ctaLabel": "Create Something With Katy",
+        "slug": "katy-v-meehan",
+        "id": "cjfblzk3zrgtr0164fk0x2e1l",
+        "content":
+          "<p>Katy is our <strong>Brand Development Lead</strong>. With a background in packaging and print design, Katy generally takes the lead on visual brand development, graphics support, and non-digital product design. Katy also manages graphics project goals and timelines, pitches in on copywriting, and continually evolves SeaMonster Studios’ house brand.</p>\n<h2><strong>recent projects:</strong></h2>\n<h3><a href=\"/portfolio/nuhope-street/\">NUHOPE STREET + SPOKED TO RIDE</a></h3>\n<h3><a href=\"/portfolio/scratch-coffee-market/\">SCRATCH COFFEE MARKET</a></h3>\n<h3><a href=\"/portfolio/financial-telepathy/\">FINANCIAL TELEPATHY</a></h3>\n<h3><a href=\"/portfolio/bloom-a-barista-guild-lecture-series/\">BLOOM: A BARISTA GUILD LECTURE SERIES</a></h3>",
+        "ctaUrl": "/contact-seamonster-studios/",
+        "avatarFlat": {
+          "url": "https://media.graphcms.com/cOOXDwqHSpitbcCuwCU7"
+        }
+      }
+    ],
+    "allPortfolioBasics": [
+      {
+        "services": [
+          {
+            "id": "cjgmo6ss5bvc701827d32glua",
+            "title": "Web Design + UI/UX",
+            "slug": "web-design-uiux"
+          },
+          {
+            "id": "cjgmp47nscbfv0135u0p7zovn",
+            "title": "Brand Lab",
+            "slug": "brand-lab"
+          }
+        ],
+        "description":
+          "The founders of NuHope Street asked us to help them develop a brand for their new youth-focused charity. We created a logo system, social media graphics, a custom website, and merchandise mock-ups to help support their first event and increase long-term visibility for their organization.",
+        "additionalServices": ["Print Design"],
+        "year": "2017",
+        "slug": "nuhope-street",
+        "gallery": [
+          {
+            "id": "cjgmpn4slcc4x01428dki4wco",
+            "width": 1920,
+            "height": 584,
+            "handle": "FKvdxFbAS12RlulnXkgb"
+          },
+          {
+            "id": "cjgmpn5h7capj0179dgrpen4l",
+            "width": 1920,
+            "height": 996,
+            "handle": "HxEHx8SQRucfuLob4sQA"
+          },
+          {
+            "id": "cjgmpn5j2ck950199keszgimx",
+            "width": 1919,
+            "height": 1061,
+            "handle": "7degZe4ZQE6L8cThyXUX"
+          },
+          {
+            "id": "cjgmpn5mzchm80135lzik22ol",
+            "width": 1920,
+            "height": 1247,
+            "handle": "SpRWUAZiSNu5BVgLfYXT"
+          },
+          {
+            "id": "cjgmpn5s3cea90190dfxyoc93",
+            "width": 1921,
+            "height": 1438,
+            "handle": "BnAmYiAQTPSf7k9B8Tya"
+          },
+          {
+            "id": "cjgmpn5s3ceaa0190daqten5d",
+            "width": 1920,
+            "height": 1621,
+            "handle": "YytgOvCTqDVRjOYKvtTA"
+          },
+          {
+            "id": "cjgmpn5wu1nlp01687y6sa6ou",
+            "width": 1921,
+            "height": 1965,
+            "handle": "Bw5kvxm0RAa7M8Kx6QWO"
+          },
+          {
+            "id": "cjgmpn660cfy60191p2iiyum3",
+            "width": 1920,
+            "height": 2966,
+            "handle": "Ks7DBDDtSmufkXiKYdCy"
+          },
+          {
+            "id": "cjgmpn6myck9f01991m2oy7nf",
+            "width": 1921,
+            "height": 693,
+            "handle": "Zp9HpoEhT2K6UBRTK4ql"
+          },
+          {
+            "id": "cjgmpnqn4catf0179du7nb72c",
+            "width": 2880,
+            "height": 1600,
+            "handle": "y4z7xjZdS46xHgK342EO"
+          }
+        ],
+        "id": "cjgmpo6fichv90135xc9fml0o",
+        "projectLink": "https://www.nuhopestreet.org/",
+        "client": "NuHope Street",
+        "createdAt": "2018-04-30T20:43:29.000Z",
+        "featuredImage": {
+          "url": "https://media.graphcms.com/y4z7xjZdS46xHgK342EO"
+        },
+        "title": "NuHope Street",
+        "projectLinkLabel": "www.nuhopestreet.org"
+      }
+    ],
+    "PartialCTA": {
+      "backgroundColor": "{\"r\":241,\"g\":238,\"b\":234,\"a\":0.09}",
+      "url": "/contact-seamonster-studios/",
+      "backgroundImage": {
+        "url": "https://media.graphcms.com/RnqlcMETvyQfshQKQLHX"
+      },
+      "label": "Get the ball rolling on your next project",
+      "backgroundType": "Image"
+    },
+    "PageHome": {
+      "slug": "home",
+      "marqueeContent":
+        "<h3>We're a friendly, full-service digital agency offering</h3>\n<h3><strong>data-driven</strong> <a href=\"/seamonster-studios-services/brand-lab/\"><u><strong>strategy</strong></u></a><strong>,</strong> <a href=\"/seamonster-studios-services/web-design-uiux/\"><u><strong>design</strong></u></a><strong>, and</strong> <a href=\"/seamonster-studios-services/web-development/\"><u><strong>development</strong></u></a> <strong>for your brand.</strong></h3>",
+      "marqueeBackgroundImage": {
+        "url": "https://media.graphcms.com/xb46U1WkSQuv2JCVZaNs"
+      },
+      "partialCTA": {
+        "backgroundColor": "{\"r\":119,\"g\":119,\"b\":119,\"a\":0.5}",
+        "url": "/contact-seamonster-studios/",
+        "backgroundImage": {
+          "handle": "A0IGIMpKRk2MQ6M6p3UD",
+          "width": 1920,
+          "height": 1192
+        },
+        "label": "Let's Talk",
+        "backgroundType": "Image",
+        "id": "cjgmrwf37czzr01091ed508tn"
+      }
+    },
+    "allPosts": [
+      {
+        "subtitle": "",
+        "author": {
+          "id": "cjgmn5t0ybmi50149syyn8kmc",
+          "name": "seamonsterwes",
+          "avatar": {
+            "url": "https://media.graphcms.com/5jpk6srmSaymeAgcRpOs"
+          }
+        },
+        "marqueeContent": null,
+        "slug": "email-marketing-isnt-dead-youre-just-doing-it-wrong",
+        "postCategories": [
+          {
+            "id": "cjgmnn1oylt9k01012wxfkv1v",
+            "name": "Business"
+          },
+          {
+            "id": "cjgmnnhedbpki0142gfrtx463",
+            "name": "Web Design"
+          }
+        ],
+        "id": "cjgms8burd2pr01711yscy87d",
+        "content":
+          "<p>There are lots of hot takes out there that email is all but dead with the rise of messaging apps like Slack, the pervasiveness of social media integration, and the ever-shortening feedback loop that our digital lives are built on. Chances are though, you’re reading this because I sent you an email and enticed you over here. So, voila.</p>\n<p>Email is very much alive, and a great channel for communicating with customers. Good, valuable content, packaged in a timely, relevant email, sent to a specific group with specific wants and needs — it’s a powerful tool for nurturing leads and boosting conversions. Easy enough, let’s dig in and look at how to put email marketing to work.</p>\n<p><strong>Google’s Gmail service has</strong> <a href=\"https://www.statista.com/statistics/432390/active-gmail-users/\" rel=\"noopener\" target=\"_blank\"><strong>1B users worldwide</strong></a><strong>. Some smart folks believe that nearly half the world’s population (3B)</strong> <a href=\"http://www.radicati.com/wp/wp-content/uploads/2016/01/Email_Statistics_Report_2016-2020_Executive_Summary.pdf\" rel=\"noopener\" target=\"_blank\"><strong>will be using email by 2020</strong></a><strong>.</strong></p>\n<h3><strong>Communication, schmommunication</strong></h3>\n<p>With that out of the way, some tips for building that email marketing muscle:</p>\n<p><strong>1) Send emails to lists that want to hear from you.</strong><br>\nDo your subscribers a solid: don’t pack their inbox with junk they aren’t reading. Email lists with low engagement activity can actually hurt your domain reputation and impact your chances of connecting with other future customers. Instead, look for the ones that open your emails and consider ways to grow that group. Focus on the content they’re responding to and deliver more of that.</p>\n<p><strong>2) Have a goal for each email before you press “send.”</strong><br>\nAlways have a plan. Conceptually, consider what your goal is and build the email to reach that. Without a strong foundation, your message might get lost, and goals won’t be met. With an established goal — whether it’s opens, shares, or conversions — you’ll have a metric for evaluating performance and making future email decisions.</p>\n<p>Goals for your emails could include a contact filling out a longer form for a gated content offer to provide your team with more information about their organization, or redeeming a promo code for a purchase on your website.</p>\n<p>Whether you’re shooting for subscribers to redeem a promo code or fill out a form for gated content, give them multiple paths to get there. Calls-to-action or links in text give subscribers multiple avenues to achieve your goal. Everyone’s behavior is different, so make your emails flexible.</p>\n<p><strong>3) Personalize and test your emails.</strong><br>\nEmail personalization&nbsp;really works: back in 2014, Hubspot found that emails with the recipients’ first names in the subject lines had&nbsp;higher clickthrough rates&nbsp;than emails that didn’t.</p>\n<ul>\n  <li>Don’t go overboard — personalize recipient names and company names; too much more gets weird fast.</li>\n  <li>Nothing is less personal than receiving a “Dear Customer” or “Dear First Name” email, so test every email to make sure you’re sending to recipient names.</li>\n  <li>Don’t send emails from a “noreply” email account — personalization works on your end, too. Boost your engagement by personalizing the “from” email address to drive replies from subscribers to a real person instead of “noreply@company.com.”</li>\n</ul>\n<p><strong>4) Experiment with sending emails on different days of the week.</strong><br>\nStop sending emails on Tuesdays. Seriously, just stop.</p>\n<p>I bet you get a lot of email on Tuesdays, Wednesdays, and Thursdays — they’re the most popular days for marketing emails. Ditch the crowd and see how Monday or Friday mailings go, you might see some better engagement.</p>\n<ul>\n  <li>Emails with calls-to-action perform well on Saturdays, so don’t be afraid to send emails on the weekend, either.</li>\n  <li>Experiment with your scheduling, your subscribers might have a little more attention to spare on quieter days.</li>\n</ul>\n<p><strong>5) Engage with contacts who’ve submitted forms, not contacts whose information you’ve imported.</strong><br>\nWhen someone fills out a form and offers you their info, they’re engaging and giving you permission to interact. They want to hear from you, so reward them with your attention and quality content — this is at the heart of inbound marketing and key to successful email efforts.</p>\n<p><u><strong>Never, ever buy email lists</strong></u><strong>&nbsp;— you’re only hurting your credibility and annoying people who haven’t asked to hear from you.</strong></p>\n<p><strong>6) Suppress your unengaged subscribers to avoid sending graymail.</strong><br>\nYou may be sending spam without knowing it, and that’s because the definition of spam has changed. Graymail — bulk email messages, to a list of recipients who’ve opted in, but that are never opened — can hurt your rep. Engagement rates plummet if recipients don’t open your first email, and if they continue ignoring you, the probability of them ever opening your messages is going way, way down.</p>\n<ul>\n  <li>Stop sending graymail — listen to what people are telling you when they don’t open your emails.</li>\n  <li>Start suppressing your unengaged subscribers. That way, your open rates will increase, and inbox providers will see that you’re responding to subscriber behavior.</li>\n</ul>\n<p><strong>7) If people are unsubscribing, don’t worry too much (yet).</strong><br>\nThere are lots of reasons that subscribers leave your list. You can’t please everyone all the time, so don’t fret. But, if the list is hemorrhaging subscribers, take note and start looking for the cause.</p>\n<ul>\n  <li>Consider suppressing or sending fewer emails to subscribers who aren’t engaging as much.</li>\n  <li>Look for patterns, what are the numbers telling you about behavior?</li>\n  <li>Evaluate over time — what’s changed in content or frequency to explain any exodus?</li>\n</ul>\n<p><strong>8) If people stop opening your emails, figure out what’s going wrong fast.</strong><br>\nIf your email open rate is falling, it means you’re missing the mark — recipients’ expectations aren’t being met and some bad things could be around the corner. Spam complaints and unsubscribes typically follow falling open rates, so don’t hesitate to suppress your unengaged subscribers, showing email providers that you’re responding to feedback. Test different emails to see if you can improve your open rates.</p>\n<p><strong>9) If people mark you as spam, immediately stop sending email and identify the source of the complaints.</strong><br>\nDon’t put your domain reputation at risk — being blacklisted by email providers sucks. Look for the cause, and work to clear up the issue. Bad forms, low-quality content, over-sending to your lists, whatever the reason, address it and slow or halt emails until you’ve got it all squared away.</p>\n<p>If you aren’t getting unsubscribe or spam complaints, that doesn’t necessarily mean you’re in the clear — the messages could be going straight to recipients’ junk folders. Dig around and make sure you’re following email performance.</p>\n<p><strong>10) Take your subject (line) seriously.</strong><br>\nDon’t write clickbait. Treat your subscribers like the smart folks they are, misleading them through clickbait is a fast way to kill your clickthrough rates and increase that dreaded bounce.</p>\n<p>For best results, customize and personalize email subject lines and experiment with emojis. Read your subject lines out loud before sending. Would you open that email if you received it?</p>\n<p><strong>11) Email works, if you’re putting in the work.</strong><br>\nEvery year, engagement rates start to slip, and it gets harder to reach people’s inboxes. This doesn’t mean that email marketing is losing its efficacy, it’s just more competitive. The divide is growing between email marketers who know what they’re doing and those who don’t, so make sure to put in effort to test different strategies and keep your subscribers engaged.</p>\n<p>Every audience and contacts database is different, so make sure you’re testing the implementation of new strategies and tailoring them to how your subscribers engage.</p>\n<h2>Would you open this?</h2>\n<p><br></p>\n<figure><img src=\"https://media.graphcms.com/h7olQdvhRcWCb6YclqpT\" alt=\"badspam2.png\"/></figure>\n<p><br></p>",
+        "title": "Email marketing isn't dead, you're just doing it wrong.",
+        "publishDate": "2017-08-11T00:00:00.000Z",
+        "marqueeColor": "{\"r\":48,\"g\":49,\"b\":51,\"a\":0.67}",
+        "marqueeImage": {
+          "url": "https://media.graphcms.com/5XhyVNOfSuWaGuFuqlFP"
+        }
+      },
+      {
+        "subtitle": "Growth-Driven Design for your next website",
+        "author": {
+          "id": "cjgmn5t0ybmi50149syyn8kmc",
+          "name": "seamonsterwes",
+          "avatar": {
+            "url": "https://media.graphcms.com/5jpk6srmSaymeAgcRpOs"
+          }
+        },
+        "marqueeContent": null,
+        "slug": "room-to-grow-a-better-web-build",
+        "postCategories": [
+          {
+            "id": "cjgmnn1oylt9k01012wxfkv1v",
+            "name": "Business"
+          },
+          {
+            "id": "cjgmnnlimbrxe0190d746tdkx",
+            "name": "Web Development"
+          }
+        ],
+        "id": "cjgmsc0c7d7mh01902amhb94p",
+        "content":
+          "<p>You don’t run your business without evaluating and evolving. In fact, you’re where you’re at because you’ve shown a knack for being flexible and responsive to the needs of your customers. So why blow your budget and waste a year of your life one a website that won’t evolve with you? Your site should grow with your company, it should be a living tool that serves your needs today and 10 years from now.</p>\n<p>At SeaMonster Studios, we’re helping clients get their vision out the door for the world to see. And then we’re working to keep it fresh, keep it relevant, and keep it growing.</p>\n<p>We’re talking about <a href=\"http://www.growthdrivendesign.com/\" rel=\"noopener\" target=\"_blank\">Growth-Driven Design</a>. The gist is pretty simple: start with asking the right questions, build a strategy around our goals, and prioritize where we put our time and budget. The result is a fast, lean website launch — getting your story, products, and presence online and in front of real audiences in a fraction of the time of a traditional launch. From there, we look at how the real world engages with the site, we listen to feedback and measure behavior and start working our way through the rest of our priority and wish lists. Instead of the static brochure site that can’t stay current with your dynamic, evolving business, you get a living, breathing website that adapts to the needs of your business and your customers.</p>\n<ul>\n  <li>Starting small, with an iterative strategy that keeps long-term goals in mind.</li>\n  <li>Modular design - thinking in flexible concepts that allow to expand or build without burning down or throwing away.</li>\n  <li>Content-focused design isn’t just about how it looks — it’s about what it says and how it moves customers down the funnel.</li>\n  <li>Learn - grow - learn - grow — it’s about setting yourself up for growing and iterating based on your results, your customer response, your shifting business strategies.</li>\n</ul>\n<h3><strong>Out with the Old</strong></h3>\n<p>While there’s a time and place for a traditional web design approach, in some cases, it can be frustrating and disappointing for lots of companies. It starts with so much anticipation and excitement — you have a vision for what’s possible, hire an agency that does great work, and cut a big check.</p>\n<p>Problem is, you don’t know what you don’t know, and as things progress, you learn a lot about your company and you start to know those things. You realize that lots of assumptions go into making a website — what your customers want, what your team wants, what you want, what your agency can do with a budget. As the calendar turns and pages come to life, you begin to understand how much content there really is, and how busy your people really are, and could we try a new color on that page, or what about a customer portal, or can the whole thing be animated? Suddenly, the website has ballooned out of control and a bunch of money is in play and it’s gotta be perfect for launch.</p>\n<p>Six months later, you may or may not be launching, and you’re probably asking: isn’t there a better way?</p>\n<h3><strong>Traditional Web Design</strong></h3>\n<p><br></p>\n<figure><img src=\"https://media.graphcms.com/Bl8wj6mnRxOSBWmJvkRE\" alt=\"SMS-growth-driven-webdesign-graphic.png\"/></figure>\n<p><br></p>\n<p><strong>Plan.&nbsp;</strong>Consider what the perfect site looks like: pages, products, marketing needs, customer service needs, product and engineering needs, content, functionality, mobile-friendly, SEO triumphant.</p>\n<p><strong>Design.&nbsp;</strong>Review page after page, looking at new designs with placeholder copy. As new pages roll out, new needs emerge, from content to something someone in some long forgotten department pointed out.</p>\n<p><strong>Build.&nbsp;</strong>The site begins to take shape, living on a server, hiding from your customers.</p>\n<p><strong>Content.&nbsp;</strong>Copy deadlines keep passing by, slowing down the development team. As copy arrives, page designs need to change to accommodate two more paragraphs and three more images. Oh, and that bulleted list.</p>\n<p><strong>Build, again.&nbsp;</strong>More code gets pushed, almost there.</p>\n<p><strong>Test.&nbsp;</strong>Debugging, focus groups, usability testing, device testing, accessibility testing…</p>\n<p><strong>Launch.&nbsp;</strong>You got what you wanted several months ago — but you’ve got a hot new product or new approach to your service, and the site just doesn’t quite fit anymore. The sales team isn’t happy with the results, and you’re wondering what it’ll cost to rebuild.</p>\n<h3><strong>Growth Driven Design</strong></h3>\n<p><br></p>\n<figure><img src=\"https://media.graphcms.com/W8zhlthWSqiHIY7cQ817\" alt=\"SMS-growth-driven-webdesign-graphic-2.png\"/></figure>\n<p><br></p>\n<p><strong>Start with a solid base.</strong> We’ll work with you to understand your goals, needs, and wishes to build a rock-solid strategy that will inform every corner of your website</p>\n<p><strong>Prioritize.&nbsp;</strong>Our teams will list out the must-haves for launch, keeping in mind that the goal isn’t a day-one dream site, but something that meets primary needs and can grow to hit all the right notes. This doesn’t sacrifice quality, instead it puts guardrails on what’s absolutely required to go public and couches certain assumptions about what’s important so that we can see how visitors actually behave.</p>\n<p><strong>Launch.&nbsp;</strong>Let’s get the base site out the door — launched on-budget and on-time.</p>\n<p><strong>Iterate.&nbsp;</strong>We’ll be evaluating site performance, getting real-life feedback from real-life customers, and poring over data to make good decisions that are aligned with our overall strategy. Simultaneously, we’ll be working our way down the priority lists, expanding and evolving the site as it lives and breathes.</p>\n<p>For us at SeaMonster Studios, Growth-Driven Design is about getting your site into the world quickly and intelligently, while also growing and honing content, depth, and functionality based on real-world input. Your business keeps growing, shouldn’t your website have a shot too?</p>\n<p><strong>Sign up for a free consultation and let’s look at how Growth-Driven Design can help your business grow.</strong></p>",
+        "title": "Room to Grow — A Better Web Build",
+        "publishDate": "2017-07-28T00:00:00.000Z",
+        "marqueeColor": "{\"r\":48,\"g\":49,\"b\":51,\"a\":0.67}",
+        "marqueeImage": {
+          "url": "https://media.graphcms.com/j1qcWGl3QLCD6X0ktnC6"
+        }
+      },
+      {
+        "subtitle": "",
+        "author": {
+          "id": "cjgmn5t0ybmi50149syyn8kmc",
+          "name": "seamonsterwes",
+          "avatar": {
+            "url": "https://media.graphcms.com/5jpk6srmSaymeAgcRpOs"
+          }
+        },
+        "marqueeContent": null,
+        "slug": "cheap-hosting-is-like-a-van-on-fire-in-your-kitchen",
+        "postCategories": [
+          {
+            "id": "cjgmnn1oylt9k01012wxfkv1v",
+            "name": "Business"
+          },
+          {
+            "id": "cjgmnnlimbrxe0190d746tdkx",
+            "name": "Web Development"
+          }
+        ],
+        "id": "cjgmsi22cd88e014947hnjzg4",
+        "content":
+          "<p>Budget hosting options often cut corners to get you that sweet price. When those compromises affect performance, stability, and security, any savings you were hoping for will go up in smoke quickly.</p>\n<p>At SeaMonster Studios, we build websites with best-practice workflows on Pantheon. The Pantheon platform lets us spin up development and testing environments quickly, meaning you get to see the site as it’s built, compare updates using advanced version control tracking, and save you from wasting billable hours waiting on the platform.</p>\n<p><em>Here’s why you should keep it there.</em></p>\n<p>With your site built, we need to host it somewhere — give it a home so to speak. Our Pantheon environment ensures your website will continue to perform at high speeds, with minimal need for support. No one visiting your site wants slow page loads or compromised performance, including search engines responsible for returning your site when folks are looking for you. The platform automatically does much of the work required to keep professional-grade WordPress sites fast, secure, and scalable.</p>\n<p><em>Here’s why we recommend clients host their sites with Pantheon:</em></p>\n<h3><strong>Cheap Hosting Ain’t Cheap</strong></h3>\n<p>At $10 a month, cheaper hosting may seem like a bargain, but these plans are not designed to keep your WordPress sites consistently secure, fast, and up-to-date. To keep costs down, these plans trim away development and testing environments, reliable automated backups, and make it challenging for developers to collaborate securely. Without these sorts of features, your developer will spend more time ($$) dealing with workarounds and jury-rigged solutions. In many cases, the true costs of cheap hosting can add up to thousands of dollars a year for ongoing maintenance and troubleshooting. With Pantheon, we eliminate all of those hidden costs.</p>\n<h3><strong>Squeeze More ROI from Your Investment</strong></h3>\n<p>Every dollar you spend on web development should contribute to the growth of your business. Using an open-source CMS like WordPress brings you closer to that goal, as our developers don’t need to start from scratch. However, they’ll still be wrapped up in system administration. The Pantheon platform allows you to funnel 100% of your web investment directly to the high-value features and strategy that grow your business, instead of spending time ($$) maintaining, backing up, and protecting your website.</p>\n<p><strong>Your website is an important investment and a key part of your business. Why leave it’s performance and security to chance?</strong></p>\n<h3><strong>The Fastest Platform for Websites. Period.</strong></h3>\n<p>Your business performance depends on your website performance. For every second visitors wait, conversions drop 7 percent. Pantheon is tuned to deliver the fastest performance possible. Third-parties like Loadstorm rate Pantheon as #1 in performance and reliability. The platform is so ridiculously fast that sites migrating from generic hosting see dramatic speed boosts instantly. But, <a href=\"http://reviewsignal.com/blog/2015/01/20/pantheon-wordpress-hosting-review/\" rel=\"noopener\" target=\"_blank\">you wont even have to take our word for it</a>.</p>\n<h3><strong>Be Impervious to Website Attacks</strong></h3>\n<p>Security needs to be a priority for your site; losing access or compromising other assets can impact your entire business. Pantheon makes continuous platform-wide upgrades so you don’t need to ask a developer about Heartbleed, Internet Doomsday, or other risks du jour. Pantheon also enables your developers to quickly update your site in one click. For sites built with security best-practices, like the ones we build every day at SeaMonster Studios, Pantheon has a perfect no-hack record.&nbsp;<a href=\"https://pantheon.io/security\" rel=\"noopener\" target=\"_blank\">Read more about Pantheon Security</a>.</p>\n<p><strong>In comparison to our other hosting tools, over a 12 month period, on average our clients have saved 13.22 billable hours by making use of our Pantheon Platform to stay in sync with us.</strong></p>\n<p>Ready for another web project? For the team at SeaMonster Studios, it’s one quick email to developers and we can be working on a new feature at a moment’s notice. Identical environments keep work-in-progress separate from your live site, so you’ll never need to see screenshots or hand-drawn wireframes to know what developers are up to. See the test site exactly as it will appear when it’s live. Hand-building these development and test spaces takes a long time, but Pantheon speeds up the process up with ready-built environments, saving those precious hours for your feature list.</p>\n<h3><strong>Be Impervious to Website Attacks</strong></h3>\n<p>The cost savings of using an existing developer platform is akin to using an existing framework to build a website. All the tools are available right from the start, so we hit the ground running with very limited set up time.</p>\n<p>SeaMonster Studios’ Pantheon plans start at $30 per month, price based on web traffic. Plans scale automatically to meet the needs of your audience. <a href=\"https://www.seamonsterstudios.com/contact-seamonster-studios/\">Contact us</a> today to get started.</p>",
+        "title": "Cheap hosting is like a van on fire in your kitchen",
+        "publishDate": "2017-07-26T00:00:00.000Z",
+        "marqueeColor": "{\"r\":48,\"g\":49,\"b\":51,\"a\":0.67}",
+        "marqueeImage": {
+          "url": "https://media.graphcms.com/3mLYiZitSyyhCENEYKBJ"
+        }
+      },
+      {
+        "subtitle": "",
+        "author": {
+          "id": "cjgmn5t0ybmi50149syyn8kmc",
+          "name": "seamonsterwes",
+          "avatar": {
+            "url": "https://media.graphcms.com/5jpk6srmSaymeAgcRpOs"
+          }
+        },
+        "marqueeContent":
+          "<h1><strong>Use Online Shipping To Build Customer Loyalty</strong></h1>\n<p>Annual online sales are due to top $1 trillion in 2016. Just two years later, they’ll pass $1.5 trillion. The way you ship your product could affect how much of that spend you get. We spoke to Shopify – an online sales platform – to find out more.</p>\n<p><br></p>\n<figure><img src=\"https://media.graphcms.com/sNjPessBQjq3kySbKZY4\" alt=\"shopify_logo_darkbg.svg\"/></figure>\n<p><br></p>",
+        "slug": "use-online-shipping-to-build-customer-loyalty",
+        "postCategories": [
+          {
+            "id": "cjgmnn8qd02pb0107vb0ogtcc",
+            "name": "eCommerce"
+          }
+        ],
+        "id": "cjgmsm24sday90190x4r9kkid",
+        "content":
+          "<h2><strong>Choose your shipping method</strong></h2>\n<p>Online shipping is more than just another step in the sales process. It’s an opportunity to create a customer experience and build loyalty. The strength of your online shipping options may even help you make the sale in the first place.</p>\n<p>There are plenty of shipping options you can offer through ecommerce platforms like <a href=\"http://shopify.com/?ref=xero&amp;utm_source=xero&amp;utm_medium=partner&amp;utm_campaign=shipping-sbg\" rel=\"noopener noreferrer\" target=\"_blank\">Shopify</a>. Some will be very attractive to your customers but you need to consider the costs to your business.</p>\n<p>Your standard options are:</p>\n<h4><strong>Free shipping</strong></h4>\n<p>Free shipping makes it easier for a browser to buy your product because what they see is what they get. It’ll generally work for you too – if the shipping cost is no more than 20 percent of your product price.</p>\n<p>See what your competition’s doing. If they’re all offering free online shipping, it’s going to be hard for you not to.</p>\n<h4><strong>Flat-rate shipping</strong></h4>\n<p>Flat-rate shipping is an extra cost for your customer but it’s fixed and uncomplicated. They know what’s coming before they make the purchase.This method works best when your products, packaging and shipping costs don’t vary much. It can also save you time – simply calculate the shipping costs once and apply it across your business.</p>\n<h4><strong>Real-cost shipping</strong></h4>\n<p>Real-cost shipping is what it sounds like. Customers are charged the precise cost of shipping a product – based on its size, weight and destination. It’s accurate and transparent but the calculation takes time and the costs can seem unpredictable to your customers.</p>\n<p>On the other hand, it’ll protect you from picking up the bill for heavy or oversized parcels and is especially helpful when your product sizes vary widely.</p>\n<h4><strong>Same-day delivery</strong></h4>\n<p>If you’re targeting local customers, same-day delivery can be a real selling point – especially as the holidays or Valentine’s day draw near.It’ll take more time to set up this service. You’ll have to work out a deal with a local delivery company, and you may have to customize your ecommerce platform – depending on who you’re with.</p>\n<p>Shopify and <a href=\"https://rush.uber.com/\" rel=\"noopener noreferrer\" target=\"_blank\">UberRUSH</a> offer same-day delivery to customers based in certain cities within the United States. When a customer requests same-day delivery, you simply pack the order and schedule pick up. Within minutes, an UberRUSH courier will arrive, pick up the order and hand deliver it.</p>\n<p>Whichever of these options you use, make it easy for customers to understand your shipping fees on your website. You should also be aware that you’ll probably work with a mix of local and international shipping providers to deliver these services. Whoever you choose, make sure they allow your customers to track and trace their items en route.</p>\n<h2><strong>Online shipping is a branding opportunity</strong></h2>\n<p>As an <a href=\"https://www.seamonsterstudios.com/small-business-guides/business-management/ecommerce-business/\">ecommerce merchant</a>, you don’t have a lot of contact with your customer. That means fewer brand touchpoints. High-quality or innovative packaging is one of your best ways to make a lasting impression.</p>\n<p>A study by <a href=\"http://www.dotcomdist.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Dotcom Distribution</a> found that customers are more likely to make a repeat purchase if their delivery comes in quality packaging. And 40 percent would share an image of a uniquely packaged delivery on social media. That’s a lot of free advertising.</p>\n<p>There are many ways to build <a href=\"https://www.shopify.co.nz/blog/16991592-how-to-create-a-memorable-and-shareable-unboxing-experience-for-your-brand/?ref=xero&amp;utm_source=xero&amp;utm_medium=partner&amp;utm_campaign=shipping-sbg\" rel=\"noopener noreferrer\" target=\"_blank\">brand awareness and loyalty through your packing</a>, such as unique design or package shape. Try to think outside the box.</p>\n<h2><strong>Use inserts to bring your customers back</strong></h2>\n<p>When sending a package to your customer, don’t just put your product inside. Use the opportunity to encourage them back. Consider inserts like:</p>\n<ul>\n  <li>discount offers, such as a free shipping voucher or a discount on their next order</li>\n  <li>samples of other products they might like</li>\n  <li>small gifts, such as sample stock from your suppliers</li>\n  <li>personalized thank you cards – large companies don’t have the resources to do this, so it’s a competitive advantage</li>\n</ul>\n<h2><strong>Use online shipping to enhance the customer experience</strong></h2>\n<p>Every step in the online shipping process is an opportunity to win your customers over. They care about cost, they care about convenience, and they care how you present their new product. Use these things to your advantage. Treat online shipping as an opportunity to delight customers, build brand loyalty and encourage repeat business.</p>",
+        "title": "Use Online Shipping To Build Customer Loyalty",
+        "publishDate": "2017-07-10T00:00:00.000Z",
+        "marqueeColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}",
+        "marqueeImage": null
+      },
+      {
+        "subtitle": "",
+        "author": {
+          "id": "cjgmn5t0ybmi50149syyn8kmc",
+          "name": "seamonsterwes",
+          "avatar": {
+            "url": "https://media.graphcms.com/5jpk6srmSaymeAgcRpOs"
+          }
+        },
+        "marqueeContent": "",
+        "slug": "online-dating-or-how-to-hunt-for-the-perfect-web-agency",
+        "postCategories": [
+          {
+            "id": "cjgmnn1oylt9k01012wxfkv1v",
+            "name": "Business"
+          },
+          {
+            "id": "cjgmnnhedbpki0142gfrtx463",
+            "name": "Web Design"
+          },
+          {
+            "id": "cjgmnnlimbrxe0190d746tdkx",
+            "name": "Web Development"
+          }
+        ],
+        "id": "cjgmss1rfndvz0101s58oqcop",
+        "content":
+          "<p>Getting your web project off the ground can feel like the haphazard toss of a twelve-sided die—you’re probably surrounded by nerds, are up way past your bedtime, and have a lot less fun than you should. The wrong roll for your organization can end up costing a lot of money, time, and ultimately hurt your brand.</p>\n<p>Before you begin your hunt for a web partner, it’s helpful to know yourself, know your goals, and know how much money you can spend on the project. The more you can guide the early conversations, the better you can set the agenda and get the website you want, and maybe even the one you need.</p>\n<h4><strong>I need a website/blog/media gallery/social presence. And content too.</strong></h4>\n<p>The right partner will understand your real needs. By collaborating with an experienced web agency, you’ll gain access to their talents, skills and hard won insights and expertise amassed through past client work. Even better though, your web vision will gain an advocate and protector, with the right project management tools, technical skills, and design chops to bring it all to life.</p>\n<p>What you think you need might not be exactly what you need and by keeping your vision casting high level and goal-oriented, you let your firm do what they do—overcome design and technical challenges that meet business and audience needs.</p>\n<h3><strong>Hit the books.</strong></h3>\n<p>Word to the wise, your homework starts with you, not a list of potential web agency portfolios. Sit down and map out what you’d like your site to accomplish. Understanding your goals, and ultimately needs, should always be the first step. When you have some idea of what role you’d like your site to play, ask your self a few more questions before you start digging into past work and referrals.</p>\n<h4><strong>Is this a refresh or an overhaul?</strong></h4>\n<p>What’s your the world will end if my site isn’t live date? A lightweight, low-functionality site can be up in a couple weeks, while bigger projects require bigger teams and more time.</p>\n<p>How much time DO YOU have to invest in the project? As the key decision maker, stakeholder, and collaborator, maintaining deadlines depends as much on your firm as it does on you. Missed deadlines are the clients biggest expense. They cost you time and money. Good firms have a project manager that will keep you honest, and you should be ready to listen. It’s their job to make sure you get exactly what you want, including an on-budget project.</p>\n<h3><strong>Let’s talk about money.</strong></h3>\n<p>You’re armed with answers about your needs and goals. As you start to take meetings with agencies, it’s also important that you know your budget. A budget is a data point, not a bargaining tool. If you have $100,000 to spend—spend it. If you have less, say so.</p>\n<p>Let prospective vendors walk you through how they’ll make that figure work. A good agency will present you with a scope of work that will not only guide the project, but set expectations for everyone involved.</p>\n<p>Getting what you pay for is an important part of the relationship, and one that can protect the trust required to do great collaborative work.</p>\n<h4><strong>Things to consider:</strong></h4>\n<ul>\n  <li>Get competitive bids.</li>\n  <li>A reputable agency will run $100-$300 an hour.</li>\n  <li>Maximize your spend by putting priority on the features you need most.</li>\n  <li>Work within your budget and be clear about limits.</li>\n</ul>\n<h4><strong>Decisions, decisions—a cheat sheet for hiring the right web agency</strong></h4>\n<h2><strong>DOs</strong></h2>\n<ul>\n  <li>Hire for experience and a clear passion for their work.</li>\n  <li>Hire for their talent and intelligence.</li>\n  <li>Hire to be a strategic, collaborative partner.</li>\n  <li>Hire an agency that you want to spend time with and money on.</li>\n  <li>Hire for a commitment to research and data-driven decision making.</li>\n  <li>Hire for marketing AND design prowess.</li>\n</ul>\n<h2><strong>DONTs</strong></h2>\n<ul>\n  <li>Hire your cousin, brother-in-law, or old college buddy.</li>\n  <li>Hire jerks.</li>\n  <li>Hire the cheapest bid because they’re the cheapest bid.</li>\n  <li>Ask the agency to \"use their creativity\" as a means of avoiding constructive problem solving. This is not a substitute for good planning and communication. A creative designer can add value best by applying data driven and tested problem solving skills to to solid ideas.</li>\n</ul>",
+        "title": "Online dating, or how to hunt for the perfect web agency.",
+        "publishDate": "2017-07-17T00:00:00.000Z",
+        "marqueeColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}",
+        "marqueeImage": {
+          "url": "https://media.graphcms.com/iEjwOTIwRbmaGe6IBOJY"
+        }
+      }
+    ],
+    "allPortfolioBlockses": [
+      {
+        "services": [
+          {
+            "id": "cjgmo6ss5bvc701827d32glua",
+            "title": "Web Design + UI/UX",
+            "slug": "web-design-uiux"
+          },
+          {
+            "id": "cjgmp47nscbfv0135u0p7zovn",
+            "title": "Brand Lab",
+            "slug": "brand-lab"
+          }
+        ],
+        "description":
+          "ATS has been providing maintenance, repair and overhaul (MRO) services for commercial and military aircraft for more than 45 years. Today, ATS is home to more than 1,500 employees who work together to support a global customer base across three major business platforms: Airframe Services; Components Services; Engineering Services. ATS is headquartered in Everett, Wash., and has expanded operations to Moses Lake, Wash., Kansas City, Mo., and Fort Worth, Texas. As one company that holds ATS FAA Class IV and EASA 145 certifications, ATS is able to work on virtually any transport aircraft in the world. In 2016, ATS was named Aviation Week’s MRO of the Year.",
+        "block2ImageColumnses": [
+          {
+            "size": "Contained",
+            "rightImage": {
+              "width": 1440,
+              "height": 1080,
+              "handle": "JSFATJyVTUTvOXGiYJfC"
+            },
+            "leftImage": {
+              "width": 1440,
+              "height": 1080,
+              "handle": "jT35QIS7S6hA6LFzLfzQ"
+            },
+            "blockPosition": 45,
+            "id": "cjgmq8lzwchqx0124hasmfl53",
+            "rightBackgroundColor": "{\"r\":234,\"g\":234,\"b\":234,\"a\":1}",
+            "leftBackgroundColor": "{\"r\":77,\"g\":133,\"b\":183,\"a\":1}"
+          },
+          {
+            "size": "Full_Width",
+            "rightImage": {
+              "width": 1920,
+              "height": 1293,
+              "handle": "MWUq6zvnRB2hxf3mNTkt"
+            },
+            "leftImage": {
+              "width": 1920,
+              "height": 1293,
+              "handle": "Mxy1cp4sSWyX4RXprz5c"
+            },
+            "blockPosition": 46,
+            "id": "cjgmq9askci740109ohmsdidb",
+            "rightBackgroundColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}",
+            "leftBackgroundColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}"
+          }
+        ],
+        "additionalServices": ["Print Design"],
+        "year": "2016",
+        "slug": "aviation-technical-services",
+        "id": "cjgmq9e6ncmbp0112t9vlv8pp",
+        "projectLink": "http://www.atsmro.com/",
+        "client": "Aviation Technical Services",
+        "blockImageContentColumnses": [],
+        "createdAt": "2018-04-30T20:59:59.000Z",
+        "blockImages": [
+          {
+            "image": {
+              "url": "https://media.graphcms.com/Mv7grO0kTI6vvmF3BIgj",
+              "width": 2550,
+              "height": 3396,
+              "handle": "Mv7grO0kTI6vvmF3BIgj"
+            },
+            "imageType": "Background",
+            "blockPosition": 15,
+            "id": "cjgmq56i4ch1c0109gk5se1g5",
+            "overlayColor": "{\"r\":11,\"g\":91,\"b\":198,\"a\":0.23}"
+          },
+          {
+            "image": {
+              "url": "https://media.graphcms.com/OvsTKYbuSxirOh4WMfpT",
+              "width": 1920,
+              "height": 1293,
+              "handle": "OvsTKYbuSxirOh4WMfpT"
+            },
+            "imageType": "Inline",
+            "blockPosition": 16,
+            "id": "cjgmq6vo1cn5l0135ai8o8ozc",
+            "overlayColor": null
+          }
+        ],
+        "featuredImage": {
+          "url": "https://media.graphcms.com/r5huHv9nQUmMm5UbC75i"
+        },
+        "blockBrands": [
+          {
+            "backgroundColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}",
+            "backgroundImage": {
+              "url": "https://media.graphcms.com/hNWuUeo5Q6ukDU7ooraW"
+            },
+            "backgroundType": "Image",
+            "gallery": [
+              {
+                "height": 257,
+                "width": 640,
+                "handle": "uTqHlTHqRJTAlAoGa30Q",
+                "id": "cjgmpx5lg0ltu0162ejtynbe7"
+              },
+              {
+                "height": 257,
+                "width": 640,
+                "handle": "Hkgq7CI6QMO4lbEPBX17",
+                "id": "cjgmpx5lyckio0135wpgj95nu"
+              },
+              {
+                "height": 257,
+                "width": 640,
+                "handle": "YthB00ImSgmHhOCfFsIt",
+                "id": "cjgmpx5rncitd0191wkhcya87"
+              },
+              {
+                "height": 257,
+                "width": 640,
+                "handle": "PvCrsZ9NQ4GpS8wYYXOQ",
+                "id": "cjgmpx5socf9b0182j8urs48x"
+              }
+            ],
+            "blockPosition": 5,
+            "id": "cjgmpyzzwce3v0171y5o58yxo",
+            "title": "The Brand"
+          },
+          {
+            "backgroundColor": "{\"r\":255,\"g\":255,\"b\":255,\"a\":0.9}",
+            "backgroundImage": {
+              "url": "https://media.graphcms.com/ecpgs6CkTLCLb3LJmd2n"
+            },
+            "backgroundType": "Image",
+            "gallery": [
+              {
+                "height": 2712,
+                "width": 2800,
+                "handle": "asQcmTatx4iKWRqrCAJ1",
+                "id": "cjgmpx5rlchbk0190lxles24i"
+              },
+              {
+                "height": 2878,
+                "width": 2800,
+                "handle": "lH8ym292QyG1zuMlTDTg",
+                "id": "cjgmpx6ee0s0m0107vsl7rp07"
+              },
+              {
+                "height": 1408,
+                "width": 2800,
+                "handle": "KNj1WPRhRDqBM86I1hLA",
+                "id": "cjgmpx6f6citi0191j04fbpo5"
+              },
+              {
+                "height": 1594,
+                "width": 2064,
+                "handle": "MylAeRclRhahFgEYRENC",
+                "id": "cjgmpx6fhcl7g01627ghs8ghr"
+              },
+              {
+                "height": 1358,
+                "width": 2064,
+                "handle": "JqXCnTdJR0Kn3bLbXsWY",
+                "id": "cjgmpx6gccf9h0182ryvfmxeg"
+              },
+              {
+                "height": 1594,
+                "width": 2064,
+                "handle": "wZOJpE6SS2uMY746C9Zw",
+                "id": "cjgmpx6hzcg3u0149mq3dgujk"
+              },
+              {
+                "height": 1200,
+                "width": 1920,
+                "handle": "sLwBWxPRqscuDsObjcaw",
+                "id": "cjgmpx6kiceqr012488kbreq4"
+              }
+            ],
+            "blockPosition": 6,
+            "id": "cjgmq3dwdcglc0109eyoyqcht",
+            "title": ""
+          }
+        ],
+        "title": "Aviation Technical Services Brand & Website",
+        "projectLinkLabel": "\twww.atsmro.com",
+        "marqueeImage": {
+          "url": "https://media.graphcms.com/r5huHv9nQUmMm5UbC75i"
+        }
+      },
+      {
+        "services": [
+          {
+            "id": "cjgmoefymbvqe0179mvaww0px",
+            "title": "eCommerce",
+            "slug": "ecommerce"
+          },
+          {
+            "id": "cjgmp47nscbfv0135u0p7zovn",
+            "title": "Brand Lab",
+            "slug": "brand-lab"
+          }
+        ],
+        "description":
+          "The Curtis name is synonymous with a full line of the world’s most advanced, top-of-the-line commercial coffee brewing equipment, iced tea brewing systems and specialty beverage dispensers.\n\nFounded in 1941, Curtis has remained a family-owned business that is committed to the principles of quality workmanship, personal loyalty and family values. The company has also embraced new innovations and technologies to better meet the needs of an ever-changing market. With four generations of the Curtis family and a 73-year heritage, the company has artfully aligned quality and customer service with high-tech ingenuity to build a name the industry can trust.",
+        "block2ImageColumnses": [
+          {
+            "size": "Contained",
+            "rightImage": {
+              "width": 1440,
+              "height": 1080,
+              "handle": "bZ9ULP1SIWODP7Mam0Sw"
+            },
+            "leftImage": {
+              "width": 1440,
+              "height": 1080,
+              "handle": "5E1cpXSZTPH7NYFIl8Nw"
+            },
+            "blockPosition": 45,
+            "id": "cjgmqyt14cqb70142egv6jvzy",
+            "rightBackgroundColor": "{\"r\":234,\"g\":234,\"b\":234,\"a\":1}",
+            "leftBackgroundColor": "{\"r\":212,\"g\":89,\"b\":76,\"a\":1}"
+          },
+          {
+            "size": "Full_Width",
+            "rightImage": {
+              "width": 2880,
+              "height": 2160,
+              "handle": "a7RlxOtSFmprhbaSgN5J"
+            },
+            "leftImage": {
+              "width": 2880,
+              "height": 2160,
+              "handle": "An3JmTkRFi0lMUIraOmQ"
+            },
+            "blockPosition": 46,
+            "id": "cjgmqzrxdcw9s0135m6ky9my1",
+            "rightBackgroundColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}",
+            "leftBackgroundColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}"
+          }
+        ],
+        "additionalServices": ["Product Design"],
+        "year": "2015",
+        "slug": "wilbur-curtis-specialty-coffee-branding-ecommerce",
+        "id": "cjgmr0vdncqc90124inv8je0x",
+        "projectLink": "https://curtis.coffee/",
+        "client": "Wilbur Curtis",
+        "blockImageContentColumnses": [
+          {
+            "backgroundColor": "{\"r\":255,\"g\":255,\"b\":255,\"a\":1}",
+            "image": {
+              "width": 1032,
+              "height": 1653,
+              "handle": "lZkOEcoPR3t2kqkpxWpQ",
+              "url": "https://media.graphcms.com/lZkOEcoPR3t2kqkpxWpQ"
+            },
+            "blockPosition": 25,
+            "id": "cjgmqwxbqctln0112rmo7k5u4",
+            "content":
+              "<h3><strong>The Site</strong></h3>\n<h2>Multi-tier pricing, realtime shipping and ERP automation</h2>\n<p>Wilbur Curtis needed a website built to showcase the quality of the standard-setting specialty coffee brewing equipment. We built them an integrated solution, using the Shopify platform as a basis for an eCommerce experience built for multi-tier wholesale and retail customers. We've interfaced directly with their shipping and automation, accounting and ERP platforms, offering cost saving business automation.</p>",
+            "imagePosition": "Left"
+          }
+        ],
+        "createdAt": "2018-04-30T21:21:21.000Z",
+        "blockImages": [
+          {
+            "image": {
+              "url": "https://media.graphcms.com/oxNSlzBIQCr9BSdkCxCE",
+              "width": 1920,
+              "height": 1181,
+              "handle": "oxNSlzBIQCr9BSdkCxCE"
+            },
+            "imageType": "Inline",
+            "blockPosition": 16,
+            "id": "cjgmqxrhvcvow01354jzhk3sz",
+            "overlayColor": "{\"r\":0,\"g\":0,\"b\":0,\"a\":1}"
+          }
+        ],
+        "featuredImage": {
+          "url": "https://media.graphcms.com/NoNbfZ5SxeMrDWi2kcZy"
+        },
+        "blockBrands": [
+          {
+            "backgroundColor": "{\"r\":255,\"g\":255,\"b\":255,\"a\":0.09}",
+            "backgroundImage": {
+              "url": "https://media.graphcms.com/iXgDyID0Q3OZXao594iu"
+            },
+            "backgroundType": "Image",
+            "gallery": [
+              {
+                "height": 861,
+                "width": 2064,
+                "handle": "6ReRjxkQpmBCE7rJxfas",
+                "id": "cjgmqro8zcnt70124eikgijj8"
+              },
+              {
+                "height": 860,
+                "width": 2064,
+                "handle": "GKr9mRapSCUT5i4xUDmu",
+                "id": "cjgmqroarcs1q011277k1l1af"
+              },
+              {
+                "height": 2948,
+                "width": 2800,
+                "handle": "9N4xR7SQaGcovEJecqls",
+                "id": "cjgmqrogwcnyr01094md29734"
+              },
+              {
+                "height": 861,
+                "width": 2064,
+                "handle": "Rkz7IwpVTJ2g21IkpxyQ",
+                "id": "cjgmqroqrcqla0190eoeiafo5"
+              },
+              {
+                "height": 1289,
+                "width": 2800,
+                "handle": "2ku8WGf4R4ugwywf215s",
+                "id": "cjgmqrorzcobq0182opr78uq7"
+              },
+              {
+                "height": 2948,
+                "width": 2800,
+                "handle": "nKU9ZNHpQBSDY2FGjijH",
+                "id": "cjgmqrozkcmnw0171kre5hhxk"
+              }
+            ],
+            "blockPosition": 5,
+            "id": "cjgmqv1fkcp9m01427scgcs7r",
+            "title": "The Brand"
+          }
+        ],
+        "title": "Wilbur Curtis Specialty Coffee Branding & eCommerce",
+        "projectLinkLabel": "curtis.coffee",
+        "marqueeImage": {
+          "url": "https://media.graphcms.com/NoNbfZ5SxeMrDWi2kcZy"
+        }
+      }
+    ],
+    "PagePosts": {
+      "slug": "from-the-depths",
+      "title": "Up from the Depths...",
+      "description": "the blog of SeaMonster Studios",
+      "partialContactColumns": [
+        {
+          "url": "tel:+12067019767",
+          "icon": {
+            "url": "https://media.graphcms.com/CY7aQdy3Q1W73FH70rnk"
+          },
+          "urlLabel": "(206) 701-9767",
+          "id": "cjfbmjy546p3s01935n8u82ce",
+          "title": "Call Us"
+        },
+        {
+          "url": "mailto:hello@seamonsterstudios.com",
+          "icon": {
+            "url": "https://media.graphcms.com/UsiPSN1tTuuC31nAJ3a3"
+          },
+          "urlLabel": "hello@seamonsterstudios.com",
+          "id": "cjfbmkt8u91sy0186lqb5lqb9",
+          "title": "Email Us"
+        },
+        {
+          "url": "/contact-us/",
+          "icon": {
+            "url": "https://media.graphcms.com/wk2WrPURri8ZTfY0GdsY"
+          },
+          "urlLabel": "Let's talk about your project",
+          "id": "cjfbmlzxx913i018963inycqa",
+          "title": "Get Somethin' Started"
+        }
+      ]
+    },
+    "Brand": {
+      "logoWhite": {
+        "url": "https://media.graphcms.com/Y2etxWyUTx6xkVrVaDEq"
+      },
+      "siteTitle": "SeaMonster Studios",
+      "phoneNumber": "12067019767",
+      "socialProfiles": [
+        {
+          "id": "cjetg4vsp0g1t0134acgq6kmk",
+          "url": "https://www.facebook.com/seamonsterstudios",
+          "icon": {
+            "url": "https://media.graphcms.com/7qbYIrkjSJODQA4e1xiN"
+          }
+        },
+        {
+          "id": "cjetg70g084fr0179c9bctkkf",
+          "url": "https://twitter.com/the_seamonsters",
+          "icon": {
+            "url": "https://media.graphcms.com/JzK2rOTmQjWq5URBP6XY"
+          }
+        },
+        {
+          "id": "cjetga41f934r01494kt17nze",
+          "url": "http://www.linkedin.com/company/seamonster-studios",
+          "icon": {
+            "url": "https://media.graphcms.com/Q9hfeNSYR2GUUTV0XT7S"
+          }
+        }
+      ],
+      "logo": {
+        "url": "https://media.graphcms.com/UoAqE4jTDq65RBezEXMQ"
+      },
+      "contactEmail": "hello@seamonsterstudios.com",
+      "phoneLabel": "+1 206 701 9767",
+      "address": ["1326 5th Ave, Suite 334", "Seattle, WA 98101"],
+      "officeLocation": {
+        "lat": 47.6094177,
+        "lng": -122.3341279
+      }
+    },
+    "PageContact": {
+      "locationHeadline": "see the office",
+      "slug": "contact-seamonster-studios",
+      "formHeadline": "start the conversation",
+      "locationPhoto": {
+        "handle": "Jnlh3aT3R4u1oCPBIONt",
+        "width": 1080,
+        "height": 1080
+      },
+      "locationDescription":
+        "Come see us in the historic Skinner building, home to the 5th Avenue Theatre, thriving start ups, big business, and creatives doing exciting work in the heart of downtown Seattle.",
+      "formDescription":
+        "We're at our best when coming up with innovative ideas, but also understand that a smart concept should be supported with measurable results. We're always here to talk about a project. Why not drop a line and see what you catch?"
+    },
+    "PageAbout": {
+      "headline": "meet the monsters",
+      "description":
+        "…and designers, developers, marketers, team players, technologists, and strategists. More than any of that, our clients call us partners. Our work runs the gamut, but each project shares a commitment to getting it right and trying something new.",
+      "partialContactColumns": [
+        {
+          "url": "tel:+12067019767",
+          "icon": {
+            "url": "https://media.graphcms.com/CY7aQdy3Q1W73FH70rnk"
+          },
+          "urlLabel": "(206) 701-9767",
+          "id": "cjfbmjy546p3s01935n8u82ce",
+          "title": "Call Us"
+        },
+        {
+          "url": "mailto:hello@seamonsterstudios.com",
+          "icon": {
+            "url": "https://media.graphcms.com/UsiPSN1tTuuC31nAJ3a3"
+          },
+          "urlLabel": "hello@seamonsterstudios.com",
+          "id": "cjfbmkt8u91sy0186lqb5lqb9",
+          "title": "Email Us"
+        },
+        {
+          "url": "/contact-us/",
+          "icon": {
+            "url": "https://media.graphcms.com/wk2WrPURri8ZTfY0GdsY"
+          },
+          "urlLabel": "Let's talk about your project",
+          "id": "cjfbmlzxx913i018963inycqa",
+          "title": "Get Somethin' Started"
+        }
+      ],
+      "slug": "about-seamonster-studios",
+      "teamMembers": [
+        {
+          "id": "cjfblrn79qeeh0121v1urwyr6",
+          "slug": "thislogancall",
+          "name": "Logan Call",
+          "avatarShadow": {
+            "url": "https://media.graphcms.com/2fyfCc2HQrG3n12EMpZm"
+          }
+        },
+        {
+          "id": "cjfblux6h6ir40103rg2u75ap",
+          "slug": "wes-buckwalter",
+          "name": "Wes Buckwalter",
+          "avatarShadow": {
+            "url": "https://media.graphcms.com/hxjkZhIPRRiKwwu5zqAq"
+          }
+        },
+        {
+          "id": "cjfblzk3zrgtr0164fk0x2e1l",
+          "slug": "katy-v-meehan",
+          "name": " Katy V. Meehan",
+          "avatarShadow": {
+            "url": "https://media.graphcms.com/73CoHM5UQCyRFHGjzDLb"
+          }
+        }
+      ],
+      "clientGallery": [
+        {
+          "id": "cjfbm2zfr8wv50186p6wfi0i2",
+          "width": 640,
+          "height": 257,
+          "handle": "CUPDSu6sRX20bYEFmsVl"
+        },
+        {
+          "id": "cjfbm2zmr8wv801860fx41zju",
+          "width": 640,
+          "height": 257,
+          "handle": "oMpXvJ4ySTGfDdhm2K1h"
+        },
+        {
+          "id": "cjfbm2zs91jpn01084phuz9ng",
+          "width": 640,
+          "height": 257,
+          "handle": "OYgjo3KQOCiita9Pe6Fv"
+        },
+        {
+          "id": "cjfbm2zs91jpo010859jptbim",
+          "width": 640,
+          "height": 257,
+          "handle": "IXlAGfH7Se67fr28Gdip"
+        },
+        {
+          "id": "cjfbm2ztcqi0v0121i4bnpsor",
+          "width": 640,
+          "height": 257,
+          "handle": "AuK7K1UzR6iFRVXSKjSl"
+        },
+        {
+          "id": "cjfbm2zvqri8u0117sasxmdd4",
+          "width": 640,
+          "height": 257,
+          "handle": "MvIYx5VpQOCVLUMrLjea"
+        },
+        {
+          "id": "cjfbm2zwkrhtn0164jz81z2ut",
+          "width": 640,
+          "height": 257,
+          "handle": "xdQzWYKoQeeq9lTu0cPo"
+        },
+        {
+          "id": "cjfbm300rlu7b01632wotvoz5",
+          "width": 640,
+          "height": 257,
+          "handle": "yNDQ3fUITQ92XzTWiAIA"
+        },
+        {
+          "id": "cjfbm301blsuw0162lr5wegkg",
+          "width": 640,
+          "height": 257,
+          "handle": "xurEJVd6QESYVKS7hqPs"
+        },
+        {
+          "id": "cjfbm301clsuy01622lgjlucc",
+          "width": 640,
+          "height": 257,
+          "handle": "BxOFlPihRJGLwKx2cLka"
+        },
+        {
+          "id": "cjfbm302h99gb0102nothe4se",
+          "width": 640,
+          "height": 257,
+          "handle": "sdva8E08RcOmRJWRSOcS"
+        },
+        {
+          "id": "cjfbm30fx8wvc0186tikarvmb",
+          "width": 640,
+          "height": 257,
+          "handle": "xynG67OtTGW1SHvdqOgD"
+        },
+        {
+          "id": "cjfbm30i46kla0193l70hvgj7",
+          "width": 640,
+          "height": 257,
+          "handle": "GzvARTuRNGE8B9V7Znkj"
+        },
+        {
+          "id": "cjfbm30ialt370118rx37fgs1",
+          "width": 640,
+          "height": 257,
+          "handle": "swFBXCQRQWx6kfpN21HQ"
+        },
+        {
+          "id": "cjfbm30jqlqh00110mmy4hg4z",
+          "width": 640,
+          "height": 257,
+          "handle": "mqu7cno9QcWXiMBRXgLh"
+        },
+        {
+          "id": "cjfbm30jqlqh101101p8wh150",
+          "width": 640,
+          "height": 257,
+          "handle": "0kizoaO9Re206aIrHgyH"
+        },
+        {
+          "id": "cjfbm30jrlqh301109upxcu1c",
+          "width": 640,
+          "height": 257,
+          "handle": "hnePvGB4QcidzO2iX2U2"
+        },
+        {
+          "id": "cjfbm30nmlu7f0163k4iu4n50",
+          "width": 640,
+          "height": 257,
+          "handle": "3AQbidPSbGYl4sFO8tiE"
+        },
+        {
+          "id": "cjfbm30vc1jpu0108fy8vnyy6",
+          "width": 640,
+          "height": 257,
+          "handle": "v7ugW6ZrQxGuWHn8jGhX"
+        },
+        {
+          "id": "cjfbm30ykqi1b0121wicxs753",
+          "width": 640,
+          "height": 257,
+          "handle": "x67PpFFwRqWEuqAYcMRO"
+        },
+        {
+          "id": "cjfbm315x6ktn01039482yi1y",
+          "width": 640,
+          "height": 257,
+          "handle": "zhc4fSeOkQ45JzL3rgZ6"
+        },
+        {
+          "id": "cjfbm3170lsvf0162w02rhzsw",
+          "width": 640,
+          "height": 257,
+          "handle": "kjJIDcHeTtKgFMbBEqlv"
+        },
+        {
+          "id": "cjfbm318y99gh010240x05x6n",
+          "width": 640,
+          "height": 257,
+          "handle": "INmoQL00QTKWdpulYzUc"
+        },
+        {
+          "id": "cjfbm31a01v9g01410ettaobk",
+          "width": 640,
+          "height": 257,
+          "handle": "9cGJEVOAQyiCYKetXqtM"
+        },
+        {
+          "id": "cjfbm31s28wvj0186d069tt4r",
+          "width": 640,
+          "height": 257,
+          "handle": "ZEQ9iyMTtiQrQnMI40zY"
+        },
+        {
+          "id": "cjfbm31tslqh90110px059ydq",
+          "width": 640,
+          "height": 257,
+          "handle": "iM62L6pWTwuADMJmkBD6"
+        },
+        {
+          "id": "cjfbm31uilrpa0156lapp0h5r",
+          "width": 640,
+          "height": 257,
+          "handle": "MlMTvYaTbFNgPHHEjCQG"
+        },
+        {
+          "id": "cjfbm31ynlsvl01629jxfj0z6",
+          "width": 640,
+          "height": 257,
+          "handle": "A9rM8KZVR9GtAxtWrP6x"
+        },
+        {
+          "id": "cjfbm31ynlsvm01626xm25qgc",
+          "width": 640,
+          "height": 257,
+          "handle": "EwZveBZkRqqN3TbARnMb"
+        },
+        {
+          "id": "cjfbm320099gm01024lo5621j",
+          "width": 640,
+          "height": 257,
+          "handle": "v96Jmt7ERMS6Hf57MEHs"
+        },
+        {
+          "id": "cjfbm32098vtr0189hw4ftqii",
+          "width": 640,
+          "height": 257,
+          "handle": "z6sHHf35S2WQkZy7w0s9"
+        },
+        {
+          "id": "cjfbm324d8wvt0186ctmdw9wq",
+          "width": 640,
+          "height": 257,
+          "handle": "u5f0M7RlQKrvppvrG7Pw"
+        },
+        {
+          "id": "cjfbm329hrhu101644pzp6vl8",
+          "width": 640,
+          "height": 257,
+          "handle": "JvCirdVREaP6dJfpr1xw"
+        },
+        {
+          "id": "cjfbm32ey1kru01391mczk0yo",
+          "width": 640,
+          "height": 257,
+          "handle": "TVwZXJ5SS1G3CchYJBpX"
+        },
+        {
+          "id": "cjfbm32ij8wvx0186zcr2gljf",
+          "width": 640,
+          "height": 257,
+          "handle": "35z5DS8TTwCwAwnNso7w"
+        },
+        {
+          "id": "cjfbm32oslsvq0162g8udp4tf",
+          "width": 640,
+          "height": 257,
+          "handle": "mbj3vV9QSC6i7XvuoJJr"
+        },
+        {
+          "id": "cjfbm32q0rj6d01357f9ajpii",
+          "width": 640,
+          "height": 257,
+          "handle": "WqafRoieRaSNGMUeTCx6"
+        },
+        {
+          "id": "cjfbm32vi8vua0189b7ivcoyq",
+          "width": 640,
+          "height": 257,
+          "handle": "4IOvlv0RAqdgH0RMjITj"
+        },
+        {
+          "id": "cjfbm32vn6klr01933vuv1nmk",
+          "width": 640,
+          "height": 257,
+          "handle": "qfk6TzihQXG7b25fP0Xh"
+        },
+        {
+          "id": "cjfbm32yn6klu0193l1qvzg70",
+          "width": 640,
+          "height": 257,
+          "handle": "zewtW7t1RLKY8jcjaEJa"
+        },
+        {
+          "id": "cjfbm331w8wwb0186925m7133",
+          "width": 640,
+          "height": 257,
+          "handle": "m7GEbb24RxGyF2Q3PoFf"
+        },
+        {
+          "id": "cjfbm33kgrhus0164ti0hqtpk",
+          "width": 640,
+          "height": 257,
+          "handle": "47fTT13yReOXlA8SAQru"
+        },
+        {
+          "id": "cjfbm3cie99jq0102labv672k",
+          "width": 640,
+          "height": 257,
+          "handle": "4fe0AeZpRfOBb7U8YB5f"
+        },
+        {
+          "id": "cjfbm3cj4rj8u0135j04m72bt",
+          "width": 640,
+          "height": 257,
+          "handle": "Q0yDzIaGTcO3oSFgXK9D"
+        },
+        {
+          "id": "cjfbm3cjcrhxb01640o3usw9k",
+          "width": 640,
+          "height": 257,
+          "handle": "pL8RQ8SxijJiBzFYADUg"
+        },
+        {
+          "id": "cjfbm3cjk8vwg01897st3pyt5",
+          "width": 640,
+          "height": 257,
+          "handle": "wpx5rI0DTZq0Nn5Mnfxt"
+        },
+        {
+          "id": "cjfbm3cjtrhxe01647ioz2zdu",
+          "width": 640,
+          "height": 257,
+          "handle": "eBpLNh76SrWoIMbGmvNt"
+        },
+        {
+          "id": "cjfbm3d5s1vce0141bphv8nay",
+          "width": 640,
+          "height": 257,
+          "handle": "Xe7vaSyQ7SzXMc3DJKRq"
+        },
+        {
+          "id": "cjfbm3d6n99ju0102z4ab9vo1",
+          "width": 640,
+          "height": 257,
+          "handle": "HwjBj6DPSj6EIXCS3xCU"
+        },
+        {
+          "id": "cjfbm3d6zrhxi016477fgwi4h",
+          "width": 640,
+          "height": 257,
+          "handle": "a3PuUAySQyXaDVHsUTuD"
+        },
+        {
+          "id": "cjfbm3denluaj0163in8ylmer",
+          "width": 640,
+          "height": 257,
+          "handle": "wEmAequfS7ehULIKzj4C"
+        },
+        {
+          "id": "cjfbm3df4lsxx01627pii8qen",
+          "width": 640,
+          "height": 257,
+          "handle": "azBfPXuWQEarSc0hDFNb"
+        },
+        {
+          "id": "cjfbm3dlflrrt0156hgs7u0lv",
+          "width": 640,
+          "height": 257,
+          "handle": "noWcecNQDGysSSNT0fQX"
+        },
+        {
+          "id": "cjfbm3dpxqi3u012163x9xj54",
+          "width": 640,
+          "height": 257,
+          "handle": "ObkZ7OSQTuGRiuohxuB7"
+        },
+        {
+          "id": "cjfbm3dtz8vwq0189yhjju9o5",
+          "width": 640,
+          "height": 257,
+          "handle": "kO9xWZyGR4qeNJv7PYdU"
+        },
+        {
+          "id": "cjfbm3dvb6koi0193cxqlqtmd",
+          "width": 640,
+          "height": 257,
+          "handle": "4poTfpiLRvmdYJbzJr3V"
+        },
+        {
+          "id": "cjfbm3dvrlqjz0110lp1bpv8j",
+          "width": 640,
+          "height": 257,
+          "handle": "bWE7AUEpQBezChuh9ihx"
+        },
+        {
+          "id": "cjfbm3eb26kon0193996idgbm",
+          "width": 640,
+          "height": 257,
+          "handle": "OHRIf103Rt6ItOhsrFju"
+        },
+        {
+          "id": "cjfbm3ebyqi410121of2uypu6",
+          "width": 640,
+          "height": 257,
+          "handle": "5jXsEnd9RrC6zwLX8lAU"
+        },
+        {
+          "id": "cjfbm3ehcribx0117s7z4eok9",
+          "width": 640,
+          "height": 257,
+          "handle": "4Y2INO62TrCRFfqZfJ0V"
+        },
+        {
+          "id": "cjfbm3ghs6koy019307t9xhrx",
+          "width": 640,
+          "height": 257,
+          "handle": "7iTbE7AASyDBSBSTcEQq"
+        }
+      ]
+    }
+  }
+}

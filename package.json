@@ -1,0 +1,101 @@
+{
+  "name": "seamonsterstudios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write 'src/**/*.js'",
+    "format:watch": "onchange 'src/**/*.js' -- prettier --write {{changed}}",
+    "start:rs": "react-static start",
+    "build:rs": "react-static build",
+    "start:lambda": "netlify-lambda serve src/lambda",
+    "build:lambda": "netlify-lambda build src/lambda",
+    "start":
+      "concurrently --kill-others-on-fail \"npm run start:lambda\" \"npm run start:rs\"",
+    "start:all":
+      "concurrently --kill-others-on-fail \"npm run format:watch\" \"npm run start:lambda\" \"npm run start:rs\"",
+    "build":
+      "concurrently --kill-others-on-fail \"npm run build:lambda\" \"npm run build:rs\"",
+    "serve": "serve dist -p 3000",
+    "test": "jest --watch",
+    "test:update": "jest -u",
+    "test:coverage": "jest --coverage",
+    "sp": "node ./src/utils/scratchpad.js"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": false,
+    "trailingComma": "all"
+  },
+  "jest": {
+    "rootDir": "src",
+    "collectCoverageFrom": [
+      "src/**/*.js",
+      "!**/__snapshots__/**",
+      "!src/styles/**",
+      "!src/App.js",
+      "!src/index.js"
+    ],
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$":
+        "src/__mocks__/fileMock.js",
+      "\\.(css|less)$": "identity-obj-proxy"
+    }
+  },
+  "dependencies": {
+    "@seamonster-studios/embed-svgs": "^2.1.3",
+    "axios": "^0.16.2",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.3",
+    "babel-jest": "^22.4.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-emotion": "^9.1.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "dompurify": "^1.0.4",
+    "dotenv": "^5.0.1",
+    "emotion": "^9.1.3",
+    "emotion-server": "^9.1.3",
+    "emotion-theming": "^9.1.2",
+    "eslint": "^4.19.1",
+    "eslint-plugin-babel": "^5.1.0",
+    "eslint-plugin-jest": "^21.15.1",
+    "eslint-plugin-react": "^7.7.0",
+    "graphcms-image": "^1.1.0-beta4",
+    "graphql-request": "^1.5.2",
+    "hamburgers": "^0.9.3",
+    "jest": "^22.4.3",
+    "jest-emotion": "^9.1.3",
+    "moment": "^2.22.1",
+    "netlify-lambda": "^0.4.0",
+    "ramda": "^0.25.0",
+    "raven-js": "^3.24.2",
+    "react": "^16.0.0",
+    "react-burger-menu": "^2.4.4",
+    "react-dom": "^16.0.0",
+    "react-emotion": "^9.1.3",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
+    "react-spring": "^5.1.0",
+    "react-static": "^5.8.6",
+    "react-testing-library": "^3.0.2",
+    "redux": "^4.0.0",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-immutable-state-invariant": "^2.1.0",
+    "redux-thunk": "^2.2.0",
+    "string-hash": "^1.1.3",
+    "stripchar": "^1.2.1",
+    "why-did-you-update": "^0.1.1"
+  },
+  "devDependencies": {
+    "concurrently": "^3.5.1",
+    "eslint-config-react-tools": "^1.2.5",
+    "faker": "^4.1.0",
+    "identity-obj-proxy": "^3.0.0",
+    "lodash": "^4.17.10",
+    "onchange": "^4.0.0",
+    "prettier": "^1.12.1",
+    "serve": "^6.1.0"
+  }
+}

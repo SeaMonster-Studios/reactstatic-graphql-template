@@ -1,0 +1,5 @@
+{
+  "extends": "react-static/.babelrc",
+  "presets": ["env", "react", "stage-0", "flow"],
+  "plugins": ["emotion"]
+}
